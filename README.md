@@ -29,7 +29,7 @@ Este projeto é uma aplicação de Business Intelligence (BI) imersiva dedicada 
 - `app_mayhem.py`: O código-fonte da aplicação.
 - `mayhem_timeline_FIXED.csv`: Base de dados tratada (derivada do Excel original).
 - `logo.jpg`: Identidade visual da banda.
-- `De Mysteriis Dom Sathanas (Live) - Mayhem (youtube).mp3`: Atmosfera sonora do ritual.
+- `De Mysteriis Dom Sathanas (Live) - Mayhem (youtube).mp3`: Atmosfera sonora 
 - `requirements.txt`: Lista de dependências para o deploy.
 
 ---
