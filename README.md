@@ -37,7 +37,7 @@ Este projeto é uma aplicação de Business Intelligence (BI) imersiva dedicada 
 ## 📜 Relatório de Engenharia (The Black Circle Library)
 
 ### Fase 1: Estruturação de Dados
-Os dados brutos foram organizados cronologicamente no arquivo `Mayhem_Timeline_Black_Edition.xlsx`, categorizados por tipo de obra e impacto histórico (fundação, mortes, reformas da banda).
+Os dados brutos foram organizados cronologicamente no arquivo `Mayhem_Timeline_Black_Edition.xlsx`, categorizados por tipo de obra e impacto histórico (fundação, polêmicas, reformas da banda, etc.). Os dados foram coletados via pesquisa e Gemini. 
 
 ### Fase 2: Desenvolvimento do Core (Python)
 Utilizou-se o Streamlit para transformar dados estáticos em uma ferramenta dinâmica. Implementou-se o tratamento de erros e cache de dados para garantir performance e estabilidade.
